@@ -2,10 +2,10 @@
 
 ## Student Information
 
-- **Full Name:** Shimwa Nitwe Bénigne
-- **Student ID:** 20252IMA171
-- **Group:** REPLACE_WITH_YOUR_GROUP
-- **Database/DBMS:** Oracle Database
+- **Full Name:Shimwa Nitwe Bénigne
+- **Student ID:20252IMA171
+- **Group: Group I
+- **Database/DBMS:Oracle Database
 
 ## Short Summary
 
