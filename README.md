@@ -1,29 +1,11 @@
 # PL/SQL Assignment One - Sunrise Supermarket
 
-## Student Information
-
+  student information
+  
 - **Full Name:Shimwa Nitwe Bénigne
 - **Student ID:20252IMA171
 - **Group: Group I
 - **Database/DBMS:Oracle Database
-
-## Short Summary
-
-This project analyzes Sunrise Supermarket sales data using SQL. I created tables for customers, products, orders, and order items, populated them with sample records, and used joins, a Common Table Expression (CTE), and window functions to examine customer purchases, spending, order sequences, and revenue trends.
-
-## How to Run
-
-1. Open an Oracle SQL environment such as Oracle SQL Developer, SQL*Plus, or another Oracle-compatible SQL tool.
-2. Create a new SQL worksheet.
-3. Open `assignment_1_sunrise_supermarket.sql`.
-4. Run the table-creation statements first.
-5. Run the INSERT statements and `COMMIT`.
-6. Run the JOIN, CTE, and window-function queries to view the results.
-7. The README contains explanations and representative results from the supplied dataset.
-
-> **Note:** Run the table-creation section only once unless the tables have been dropped first.
-
----
 
 # 1. Business Scenario
 
@@ -381,24 +363,3 @@ The first order of a customer does not have an earlier order to compare against.
 
 **Resolution:** `LAG()` was used to retrieve the previous date, and rows where the previous date was `NULL` were removed.
 
----
-
-# 8. Repository Contents
-
-```text
-assignment_1_Shimwa_Nitwe_Benigne-20252IMA171/
-│
-├── README.md
-└── assignment_1_sunrise_supermarket.sql
-```
-
-The SQL file contains the table definitions, sample data, and all required JOIN, CTE, and window-function queries.
-
----
-
-# 9. Submission Information
-
-- **Full Name:** Shimwa Nitwe Bénigne
-- **Student ID:** 20252IMA171
-- **Group:** REPLACE_WITH_YOUR_GROUP
-- **GitHub Repository:** REPLACE_WITH_YOUR_GITHUB_REPOSITORY_LINK
