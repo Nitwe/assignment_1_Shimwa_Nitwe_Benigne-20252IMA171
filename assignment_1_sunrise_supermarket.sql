@@ -1,7 +1,7 @@
 -- PL/SQL Assignment One - Sunrise Supermarket
 -- Student: Shimwa Nitwe Bénigne
 -- Student ID: 20252IMA171
--- Group: REPLACE_WITH_YOUR_GROUP
+-- Group: group I
 -- DBMS: Oracle Database
 
 -- ============================================================
