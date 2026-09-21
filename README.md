@@ -32,7 +32,6 @@ Stores individual orders and connects each order to a customer.
 
 Stores the products and quantities included in each order.
 
-# 3. JOIN Queries
 
 ## Query 1 - Order Information by Customer
 
