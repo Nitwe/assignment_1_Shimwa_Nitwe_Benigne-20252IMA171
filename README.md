@@ -11,18 +11,6 @@
 
 Sunrise Supermarket sells products to customers who place orders containing one or more products. The management team wants to understand customer activity, the products being purchased, customer spending, and how revenue changes over time.
 
-For this assignment, the database contains:
-
-- 6 customers
-- 8 products
-- 3 product categories
-- 15 orders
-- 30 order items
-- Orders recorded across multiple dates
-
-The sixth customer has no order so that the `LEFT JOIN` requirement can be demonstrated.
-
----
 
 # 2. Database Tables
 
@@ -43,8 +31,6 @@ Stores individual orders and connects each order to a customer.
 ### Order Items
 
 Stores the products and quantities included in each order.
-
----
 
 # 3. JOIN Queries
 
